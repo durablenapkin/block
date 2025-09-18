@@ -71,6 +71,7 @@
 0.0.0.0 gadsokz.com
 0.0.0.0 gadspms.com
 0.0.0.0 gadspmz.com
+0.0.0.0 dai.google.com
 0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h92zbpn4zcv1.com
 0.0.0.0 ie8eamus.com
